@@ -36,4 +36,5 @@ module.exports = {
         hot: true
         //publicPath: "/test/"
     }, //开发服务器配置
+    mode: 'production'
 }
